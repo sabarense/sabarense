@@ -1,8 +1,6 @@
 ### Hi there 👋! Welcome to my Github profile.
 
-[![@sabarense's Holopin board](https://holopin.me/sabarense)](https://holopin.io/@sabarense)
-
-🌏 Hi, I'm @sabarense_. A beginner developer who is learning C and C++ Language.
+🌏 I'm @sabarense_. A beginner developer who is learning C and C++ Language.
 🌵 I live in Brazil.
 🏫 I currently learn at PUC-MINAS Coreu.
 <!--
