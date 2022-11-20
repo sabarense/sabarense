@@ -7,6 +7,7 @@
 [![@sabarense's Holopin board](https://holopin.me/sabarense)](https://holopin.io/@sabarense)
 
 ![Sabarense GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarense&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sabarense&layout=compact)](https://github.com/sabarense/github-readme-stats)
 
  
   
