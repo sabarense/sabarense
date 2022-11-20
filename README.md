@@ -8,11 +8,12 @@
 
 <div>
   <a href="https://github.com/sabarense/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sabarense&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/sabarense/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sabarense&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+ 
   
 <!--
 **sabarense/sabarense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
