@@ -1,6 +1,6 @@
 ### Hi there 👋! Welcome to my Github profile.
 
-🌏 I'm @sabarense_. A beginner developer who is learning C, C++ and JavaScript. <br>
+🌏 I'm @sabarense_. A beginner developer who is learning C, C++, Java and JavaScript. <br>
 🌵 I live in Brazil. <br>
 🏫 I currently learn at PUC-MINAS Coreu.
 
