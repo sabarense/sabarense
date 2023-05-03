@@ -2,7 +2,7 @@
 
 🌏 I'm @sabarense_. A beginner developer who is learning C, C++, Java and JavaScript. <br>
 🌵 I live in Brazil. <br>
-🏫 I currently learn at PUC-MINAS Coreu.
+🏫 I currently learn at PUC-MINAS Coreu. <br>
 🔭 I’m currently working on Group Software.
 
 [![@sabarense's Holopin board](https://holopin.me/sabarense)](https://holopin.io/@sabarense)
