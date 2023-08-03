@@ -1,9 +1,9 @@
 ### Hi there 👋! Welcome to my Github profile.
 
-🌏 I'm @sabarense_. A beginner developer who is learning C, C++, Java and JavaScript. <br>
-🌵 I live in Brazil. <br>
-🏫 I currently learn at PUC-MINAS Coreu. <br>
-🔭 I’m currently working at Group Software as Full Stack Developer.
+🌏 I'm @sabarense_. A beginner developer learning C, C++, Java and JavaScript.
+🌵 I live in Brazil.
+🏫 Currently studying Computer Science at PUC Minas
+🔭 I currently work at Group Software as a Full Stack Developer.
 
 [![@sabarense's Holopin board](https://holopin.me/sabarense)](https://holopin.io/@sabarense)
 
