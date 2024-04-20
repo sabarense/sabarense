@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 
-🌏 I'm @sabarense_. A beginner developer learning C, C++, Java and JavaScript. <br>
+🌏 I'm Yan Sabarense. A beginner developer learning C, C++, Java and JavaScript. <br>
 🌵 I live in Brazil. <br>
 🏫 Currently studying Computer Science at PUC Minas. <br>
 🔭 I currently work at Group Software as a Full Stack Developer. <br>
