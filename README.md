@@ -1,9 +1,10 @@
 <!--- [![@sabarense's Holopin board](https://holopin.me/sabarense)](https://holopin.io/@sabarense)-->
 
+<!---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+-->
 <!---
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -17,8 +18,6 @@
   </a>
 </div>
 -->
-
----
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="300"/>
@@ -35,15 +34,6 @@
 
 ---
 
-### :fire: My Stats :
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sabarense&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarense&layout=compact&langs_count=16&card_width=250&theme=dracula" />
-</a>
-
----
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -57,5 +47,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sabarense&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarense&layout=compact&langs_count=16&card_width=250&theme=dracula" />
+</a>
+
+---
+
 
 <!-- **sabarense/sabarense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
