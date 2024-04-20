@@ -38,7 +38,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sabarense&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarense&layout=compact&langs_count=16&card_width=220&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarense&layout=compact&langs_count=16&card_width=250&theme=dracula" />
 </a>
 
 ---
