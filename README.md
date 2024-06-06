@@ -27,11 +27,12 @@
 
 ### :man_technologist: About Me :
 
-🌏 Hello, my name is Yan Sabarense. <br>
-🌵 I live in Brazil. <br>
-🏫 Currently studying Computer Science at PUC Minas. <br>
-🔭 I currently work at Group Software as a Full Stack Developer. <br>
-🚀 Passionate about backend development, I'm dedicated to mastering Java, to build robust and efficient server-side applications. <br>
+🌏 Hello, I'm Yan Sabarense! <br>
+🌵 Location: Brazil <br>
+🏫 Education: Currently studying Computer Science at PUC Minas <br>
+🔭 Profession: Full Stack Developer at Group Software <br>
+🚀 Passion: Enthusiastic about backend development, dedicated to mastering Java, Spring Boot framework, and SQL to craft robust and efficient server-side applications. <br>
+💡 Interests: Exploring new technologies, contributing to open-source projects, and continually improving my coding skills <br>
 
 ---
 
@@ -48,19 +49,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats :
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sabarense&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarense&layout=compact&langs_count=16&card_width=250&theme=dracula" />
-</a>
-
----
-
 
 <!-- **sabarense/sabarense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
