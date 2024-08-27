@@ -30,7 +30,7 @@
 🌏 Hello, I'm Yan Sabarense! <br>
 🌵 Location: Brazil <br>
 🏫 Education: Currently studying Computer Science at PUC Minas <br>
-🔭 Profession: Full Stack Developer at Group Software <br>
+🔭Experience: Full Stack Developer at Group Software 2023 - 2024 <br>
 🚀 Passion: Enthusiastic about backend development, dedicated to mastering Java, Spring Boot framework, and SQL to craft robust and efficient server-side applications. <br>
 💡 Interests: Exploring new technologies, contributing to open-source projects, and continually improving my coding skills <br>
 
