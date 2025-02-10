@@ -28,7 +28,7 @@ Desenvolvedor backend apaixonado por soluções escaláveis e eficientes. Estou 
 
 ### 💡 Projetos em Destaque
 
-#### **[EcoGuia](https://github.com/seu-perfil/EcoGuia)**
+#### **[EcoGuia](https://github.com/sabarense/eco_guia)**
 
 Aplicativo que identifica tipos de resíduos a partir de uma foto e informa a lixeira correta para descarte. Promove práticas sustentáveis alinhadas aos objetivos da ONU.
 
