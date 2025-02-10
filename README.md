@@ -22,7 +22,7 @@ Desenvolvedor backend apaixonado por soluções escaláveis e eficientes. Estou 
 
 **DevOps & Nuvem: AWS | CI/CD | Jenkins | Azure DevOps**
 
-**Outros:Microsserviços | Sistemas Distribuídos | Git | Rest APIs**
+**Outros: Microsserviços | Sistemas Distribuídos | Git | Rest APIs**
 
 ---
 
