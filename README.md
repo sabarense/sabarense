@@ -14,15 +14,15 @@ Desenvolvedor backend apaixonado por soluções escaláveis e eficientes. Estou 
 
 ### 🛠️ Habilidades
 
-**Linguagens & Frameworks:**Java | Kotlin | TypeScript | AngularJS | Spring Framework | Hibernate
+**Linguagens & Frameworks: Java | Kotlin | TypeScript | Javascript | AngularJS | Spring Framework | Hibernate**
 
-**Banco de Dados:**MySQL | H2
+**Banco de Dados: MySQL | PostgreSQL | H2**
 
-**Testes e Qualidade:**JUnit | Mockito | Cypress
+**Testes e Qualidade: JUnit | Mockito | Cypress**
 
-**DevOps & Nuvem:**AWS | Lambda | CI/CD | Jenkins | Azure DevOps
+**DevOps & Nuvem: AWS | CI/CD | Jenkins | Azure DevOps**
 
-**Outros:**Microsserviços | Sistemas Distribuídos | Git | Rest APIs
+**Outros:Microsserviços | Sistemas Distribuídos | Git | Rest APIs**
 
 ---
 
@@ -83,4 +83,3 @@ Aplicativo simples para gerenciamento de tarefas, com opção de adicionar, edit
 - 📧 [E-mail](mailto:sabarensey@gmail.com)
 - 👨‍💼 [LinkedIn](https://www.linkedin.com/in/yansabarense/)
 
-Obrigado por visitar meu perfil! Vamos juntos construir soluções tecnológicas inovadoras! 🌟
