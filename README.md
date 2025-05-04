@@ -65,6 +65,9 @@ Projeto backend para gerenciamento de usuários com funcionalidades CRUD.
 #### **[ToDo List](https://github.com/sabarense/ToDo-List)**
 Aplicativo simples para gerenciamento de tarefas, com opção de adicionar, editar e excluir itens.
 
+#### **[Pizza10](https://github.com/sabarense/pizza10)**
+Sistema completo de pedidos de pizza e bebidas, com pagamento online via Stripe e entregas rápidas via Uber Direct.
+
 ---
 
 ### 📚 Experiências Profissionais
