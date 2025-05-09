@@ -68,6 +68,12 @@ Aplicativo simples para gerenciamento de tarefas, com opção de adicionar, edit
 #### **[Pizza10](https://github.com/sabarense/pizza10)**
 Sistema completo de pedidos de pizza e bebidas, com pagamento online via Stripe.
 
+#### **[Puzzle8](https://github.com/sabarense/puzzle8)**
+Puzzle8 é uma implementação do clássico quebra-cabeça 8-Puzzle em Python, utilizando os algoritmos BFS, DFS e A* com diferentes heurísticas
+
+#### **[Task Manager Design Patterns](https://github.com/sabarense/task-manager-design-patterns)**
+Task Manager Design Patterns é um gerenciador de tarefas desenvolvido em JavaScript, HTML e CSS, criado para demonstrar na prática o uso de diversos padrões de projeto clássicos, como Factory Method, Decorator, Observer, Singleton, Adapter e Strategy.
+
 ---
 
 ### 📚 Experiências Profissionais
