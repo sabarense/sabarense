@@ -1,101 +1,66 @@
-
 # Olá, eu sou o Yan Sabarense! 👋
 
-### ⚡ Sobre Mim
+Engenheiro de Software com foco em **Desenvolvimento Backend**, especializado na criação de sistemas escaláveis e APIs robustas. Atualmente, complemento minha experiência técnica na área de **Data Science**, unindo a eficiência de sistemas à inteligência de dados.
 
-Desenvolvedor backend apaixonado por soluções escaláveis e eficientes. Estou sempre em busca de superar desafios, aprender coisas novas e aplicar a tecnologia para impactar positivamente o mundo. Com experiência em projetos que envolvem APIs robustas, microsserviços, testes automatizados e integração com ferramentas DevOps.
-
-- 🔬 Bacharelando em Ciência da Computação na PUC Minas
-- ⏳ Estágio Fullstack na Group Software (04/2023 - 06/2024)
-- ⚙️ Curioso e focado em boas práticas de desenvolvimento
-- ❤️ Apaixonado por Biologia e pela causa animal
+- 🎓 Bacharelando em Ciência da Computação na **PUC Minas**.
+- 📊 Atualmente Estagiário de **Data Science** na Expertise.
+- ⚙️ Especialista no ecossistema **Java/Spring** e arquitetura de **Microsserviços**.
 
 ---
 
-### 🛠️ Habilidades
+### 🛠️ Toolbox Técnica
 
-**Linguagens & Frameworks: Java | Kotlin | TypeScript | Javascript | AngularJS | Spring Framework | Hibernate**
-
-**Banco de Dados: MySQL | PostgreSQL | H2**
-
-**Testes e Qualidade: JUnit | Mockito | Cypress**
-
-**DevOps & Nuvem: AWS | CI/CD | Jenkins | Azure DevOps**
-
-**Outros: Microsserviços | Sistemas Distribuídos | Git | Rest APIs**
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Java, Kotlin, TypeScript, JavaScript, Python, Dart |
+| **Frameworks** | Spring Boot, Hibernate, React, Flutter, AngularJS |
+| **Bancos de Dados** | PostgreSQL, MySQL, H2|
+| **DevOps & Cloud** | AWS, Docker, CI/CD (Jenkins, Azure DevOps) |
+| **Testes** | JUnit, Mockito, Cypress (E2E) |
 
 ---
 
 ### 💡 Projetos em Destaque
 
-#### **[EcoGuia](https://github.com/sabarense/eco_guia)**
+#### 🌿 [EcoGuia](https://github.com/sabarense/eco_guia)
+Aplicativo mobile sustentável que utiliza **Computer Vision** para identificar resíduos e educar sobre o descarte correto.
+* **Tech Stack:** Flutter e Dart.
+* **Destaque:** Integração com APIs de IA para classificação de imagens em tempo real.
 
-Aplicativo que identifica tipos de resíduos a partir de uma foto e informa a lixeira correta para descarte. Promove práticas sustentáveis alinhadas aos objetivos da ONU.
+#### 🍕 [Pizza10 - Fullstack E-commerce](https://github.com/sabarense/pizza10)
+Plataforma completa de delivery com gestão de pedidos, catálogo e checkout de pagamentos.
+* **Tech Stack:** Java (Spring Boot) e Javascript (React).
+* **Destaque:** Implementação de fluxo de pagamento seguro via **Stripe API** e arquitetura robusta no backend.
 
-- Reconhecimento de imagens para classificação de resíduos.
-- Calendário de coleta de lixo e dicas sustentáveis.
+#### 🏗️ [Task Manager & Design Patterns](https://github.com/sabarense/task-manager-design-patterns)
+Gerenciador de tarefas focado em excelência de código, aplicando padrões clássicos da GoF.
+* **Objetivo:** Demonstração prática de padrões como **Factory, Decorator, Observer e Strategy**.
 
-#### **[Sistema de Gerenciamento de Notas e Frequência (Frontend)](https://github.com/sabarense/frontend-challenge)**
-
-Frontend em TypeScript com React e Material UI para gerenciar informações de alunos.
-
-- Interface dinâmica com edição de dados.
-- Visualização intuitiva com gráficos e animações suaves.
-
-#### **[Sistema de Gerenciamento de Notas e Frequência (Backend)](https://github.com/sabarense/backend-challenge)**
-
-Backend robusto para armazenamento e manipulação de dados relacionados a notas e frequência.
-
-- APIs RESTful para operações CRUD.
-- Integração com banco de dados H2.
-
-#### **[Cypress Testing Project](https://github.com/sabarense/cypress-testing-project)**
-
-Projeto voltado para automação de testes frontend utilizando Cypress.
-
-- Validação de funcionalidades de autenticação.
-- Testes automatizados de interface para aplicações web.
-
-#### **[Cardápio Digital](https://github.com/sabarense/Cardapio-Digital)**
-Sistema simples para gerenciamento de cardápios digitais, permitindo a criação e edição de itens.
-
-#### **[Departamento de Usuários](https://github.com/sabarense/Departamento-Usuario)**
-Projeto backend para gerenciamento de usuários com funcionalidades CRUD.
-
-#### **[ToDo List](https://github.com/sabarense/ToDo-List)**
-Aplicativo simples para gerenciamento de tarefas, com opção de adicionar, editar e excluir itens.
-
-#### **[Pizza10](https://github.com/sabarense/pizza10)**
-Sistema completo de pedidos de pizza e bebidas, com pagamento online via Stripe.
-
-#### **[Puzzle8](https://github.com/sabarense/puzzle8)**
-Puzzle8 é uma implementação do clássico quebra-cabeça 8-Puzzle em Python, utilizando os algoritmos BFS, DFS e A* com diferentes heurísticas
-
-#### **[Task Manager Design Patterns](https://github.com/sabarense/task-manager-design-patterns)**
-Task Manager Design Patterns é um gerenciador de tarefas desenvolvido em JavaScript, HTML e CSS, criado para demonstrar na prática o uso de diversos padrões de projeto clássicos, como Factory Method, Decorator, Observer, Singleton, Adapter e Strategy.
+> [Veja todos os meus projetos →](https://github.com/sabarense?tab=repositories)
 
 ---
 
-### 📚 Experiências Profissionais
+### 📚 Experiência Profissional
 
-**Group Software | Desenvolvedor Fullstack, Estagiário (04/2023 - 06/2024)**
+**Expertise | Data Scientist Intern** *(Maio 2025 – Presente)*
+* Desenvolvimento de scripts em Python para automação]
+* Criação de dashboards ou modelos preditivos utilizando bibliotecas de Data Science]
 
-- Desenvolvimento de APIs para comunicação entre frontend e backend.
-- Criação de interfaces responsivas usando AngularJS.
-- Automazação de pipelines com Jenkins e Azure DevOps.
-- Gerenciamento de banco de dados MySQL.
-
-**Expertise | Data Scientist, Estagiário (05/2025 - Presente)**
-
-- .
-- .
-- .
-- .
+**Group Software | Fullstack Developer Intern** *(Abril 2023 – Junho 2024)*
+* Desenvolvimento de APIs escaláveis utilizando o ecossistema Spring (Java).
+* Modernização de interfaces e manutenção de sistemas legados com AngularJS.
+* Automação de pipelines de CI/CD utilizando Jenkins e Azure DevOps, reduzindo erros de deploy.
+* Gerenciamento e otimização de consultas em bancos de dados MySQL.
 
 ---
 
-### 🔗 Conecte-se Comigo
+### 🔗 Vamos conversar?
 
-- 📧 [E-mail](mailto:sabarensey@gmail.com)
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/yansabarense/)
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/yansabarense/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sabarensey@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
