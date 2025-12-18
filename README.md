@@ -85,6 +85,13 @@ Task Manager Design Patterns é um gerenciador de tarefas desenvolvido em JavaSc
 - Automazação de pipelines com Jenkins e Azure DevOps.
 - Gerenciamento de banco de dados MySQL.
 
+**Expertise | Data Scientist, Estagiário (05/2025 - Presente)**
+
+- .
+- .
+- .
+- .
+
 ---
 
 ### 🔗 Conecte-se Comigo
