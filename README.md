@@ -1,40 +1,38 @@
 # Olá, eu sou o Yan Sabarense! 👋
-
-Engenheiro de Software com foco em **Desenvolvimento Backend**, especializado na criação de sistemas escaláveis e APIs robustas. Atualmente, complemento minha experiência técnica na área de **Data Science**, unindo a eficiência de sistemas à inteligência de dados.
-
-- 🎓 Bacharelando em Ciência da Computação na **PUC Minas**.
-- 📊 Atualmente Estagiário de **Data Science** na Expertise.
-- ⚙️ Especialista no ecossistema **Java/Spring** e arquitetura de **Microsserviços**.
-
+Cientista da Computação em formação, focado em construir sistemas robustos e extrair inteligência de dados. Atualmente, opero na intersecção entre o desenvolvimento Backend e o Data Science, unindo a eficiência de APIs escaláveis à análise estratégica de grandes volumes de informação.
+- 🎓 Ciência da Computação @ PUC Minas
+- 📊 Data Science & Automação @ Expertise
+- ⚙️ Java/Spring | Python | Performance & Baixo Nível
 ---
 
 ### 🛠️ Toolbox Técnica
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Java, Kotlin, TypeScript, JavaScript, Python, Dart |
-| **Frameworks** | Spring Boot, Hibernate, React, Flutter, AngularJS |
-| **Bancos de Dados** | PostgreSQL, MySQL, H2|
-| **DevOps & Cloud** | AWS, Docker, CI/CD (Jenkins, Azure DevOps) |
-| **Testes** | JUnit, Mockito, Cypress (E2E) |
+| **Linguagens** | Java, Python, C++, Kotlin, TypeScript, JavaScript, Dart |
+| **Frameworks** | Spring Boot, Hibernate, Streamlit, React, Flutter, AngularJS |
+| **Bancos & BI** | PostgreSQL, MySQL, SQL Server, Power BI, SSIS |
+| **DevOps & Cloud** | AWS, Docker, Docker-compose, CI/CD (Jenkins, Azure DevOps) |
+| **Outros** | Automação em Python (MoviePy/Pandas), LaTeX, Bash |
 
 ---
 
 ### 💡 Projetos em Destaque
 
-#### 🌿 [EcoGuia](https://github.com/sabarense/eco_guia)
-Aplicativo mobile sustentável que utiliza **Computer Vision** para identificar resíduos e educar sobre o descarte correto.
+#### 🏗️ [Tomasulo Algorithm Simulator](https://github.com/sabarense/tomasulo)
+Simulador interativo do algoritmo de Tomasulo para execução de instruções fora de ordem (Out-of-Order Execution).
+* **Tech Stack:** Python e Streamlit.
+* **Destaque:** Implementação de lógica complexa de hardware (Reservation Stations, CDB e Reorder Buffer).
+
+#### 🌿 [Graph Image Segmentation](https://github.com/sabarense/image-segmentation-mst)
+Ferramenta que utiliza algoritmos de Teoria dos Grafos para realizar a segmentação de imagens de forma eficiente.
+* **Tech Stack:** Python e Bibliotecas Matemáticas.
+* **Destaque:** Resolução de problemas complexos de visão computacional através de estruturas de dados avançadas.
+
+#### 📱 [EcoGuia](https://github.com/sabarense/eco_guia)
+Aplicativo mobile sustentável que utiliza **Computer Vision** para identificar resíduos.
 * **Tech Stack:** Flutter e Dart.
 * **Destaque:** Integração com APIs de IA para classificação de imagens em tempo real.
-
-#### 🍕 [Pizza10 - Fullstack E-commerce](https://github.com/sabarense/pizza10)
-Plataforma completa de delivery com gestão de pedidos, catálogo e checkout de pagamentos.
-* **Tech Stack:** Java (Spring Boot) e Javascript (React).
-* **Destaque:** Implementação de fluxo de pagamento seguro via **Stripe API** e arquitetura robusta no backend.
-
-#### 🏗️ [Task Manager & Design Patterns](https://github.com/sabarense/task-manager-design-patterns)
-Gerenciador de tarefas focado em excelência de código, aplicando padrões clássicos da GoF.
-* **Objetivo:** Demonstração prática de padrões como **Factory, Decorator, Observer e Strategy**.
 
 > [Veja todos os meus projetos →](https://github.com/sabarense?tab=repositories)
 
@@ -43,14 +41,15 @@ Gerenciador de tarefas focado em excelência de código, aplicando padrões clá
 ### 📚 Experiência Profissional
 
 **Expertise | Data Scientist Intern** *(Maio 2025 – Presente)*
-* Desenvolvimento de scripts em Python para automação]
-* Criação de dashboards ou modelos preditivos utilizando bibliotecas de Data Science]
+* Desenvolvimento de scripts em Python para automação de processos de ETL e análise de dados.
+* Criação de dashboards de alta performance e modelos preditivos utilizando o ecossistema Data Science.
+* Otimização de consultas e fluxos de dados utilizando SQL Server e ferramentas de BI.
 
 **Group Software | Fullstack Developer Intern** *(Abril 2023 – Junho 2024)*
-* Desenvolvimento de APIs escaláveis utilizando o ecossistema Spring (Java).
+* Desenvolvimento de APIs escaláveis utilizando Java e Spring Boot.
 * Modernização de interfaces e manutenção de sistemas legados com AngularJS.
-* Automação de pipelines de CI/CD utilizando Jenkins e Azure DevOps, reduzindo erros de deploy.
-* Gerenciamento e otimização de consultas em bancos de dados MySQL.
+* Automação de pipelines de CI/CD (Jenkins e Azure DevOps), reduzindo erros de deploy e otimizando o time-to-market.
+* Gerenciamento e tunning de performance em bancos de dados MySQL.
 
 ---
 
