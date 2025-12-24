@@ -2,7 +2,6 @@
 Cientista da Computação em formação, focado em construir sistemas robustos e extrair inteligência de dados. Atualmente, opero na intersecção entre o desenvolvimento Backend e o Data Science, unindo a eficiência de APIs escaláveis à análise estratégica de grandes volumes de informação.
 - 🎓 Ciência da Computação @ PUC Minas
 - 📊 Data Science & Automação @ Expertise
-- ⚙️ Java/Spring | Python | Performance & Baixo Nível
 ---
 
 ### 🛠️ Toolbox Técnica
