@@ -1,64 +1,82 @@
-# Olá, eu sou o Yan Sabarense! 👋
-Cientista da Computação em formação, focado em construir sistemas robustos e extrair inteligência de dados. Atualmente, opero na intersecção entre o desenvolvimento Backend e o Data Science, unindo a eficiência de APIs escaláveis à análise estratégica de grandes volumes de informação.
-- 🎓 Ciência da Computação @ PUC Minas
-- 📊 Data Science & Automação @ Expertise
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Yan%20Sabarense&fontSize=80&fontColor=ffffff&fontAlignY=35" width="100%"/>
+</div>
+
+<div align="center">
+  
+  ### 👨‍💻 Cientista da Computação em Formação | Data Science & Backend Developer
+
+  *Construindo a ponte entre engenharia de software robusta e inteligência de dados.*
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yansabarense/) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sabarensey@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=kofi&logoColor=white)](https://github.com/sabarense)
+
+</div>
+
 ---
 
-### 🛠️ Toolbox Técnica
+### Sobre mim!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens** | Java, Python, C++, Kotlin, TypeScript, JavaScript, Dart |
-| **Frameworks** | Spring Boot, Hibernate, Streamlit, React, Flutter, AngularJS |
-| **Bancos & BI** | PostgreSQL, MySQL, SQL Server, Power BI, SSIS |
-| **DevOps & Cloud** | AWS, Docker, Docker-compose, CI/CD (Jenkins, Azure DevOps) |
-| **Outros** | Automação em Python (MoviePy/Pandas), LaTeX, Bash |
+Atualmente opero na intersecção entre o desenvolvimento **Backend** e o **Data Science**. Meu foco é unir a eficiência de APIs escaláveis (Java/Spring) à análise estratégica de grandes volumes de informação (Python/Pandas).
+
+- 🎓 **Formação:** Ciência da Computação @ PUC Minas.
+- 💼 **Atual:** Data Scientist Intern @ Expertise.
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| Núcleo | Web & Frameworks | Dados & Cloud | Ferramentas |
+| :---: | :---: | :---: | :---: |
+| ![C](https://skillicons.dev/icons?i=c) ![CPP](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) | ![Spring](https://skillicons.dev/icons?i=spring) ![Angular](https://skillicons.dev/icons?i=angular) ![React](https://skillicons.dev/icons?i=react) ![TS](https://skillicons.dev/icons?i=ts) ![JS](https://skillicons.dev/icons?i=js) | ![Postgres](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) | ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Jenkins](https://skillicons.dev/icons?i=jenkins) ![Postman](https://skillicons.dev/icons?i=postman) |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/sabarense">
+    <img src="https://github-readme-stats.vercel.app/api?username=sabarense&show_icons=true&theme=tokyonight&hide_border=true" alt="Yan's Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sabarense">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarense&layout=compact&theme=tokyonight&hide_border=true" alt="Yan's Top Languages" />
+  </a>
+</p>
 
 ---
 
 ### 💡 Projetos em Destaque
 
-#### 🏗️ [Tomasulo Algorithm Simulator](https://github.com/sabarense/tomasulo)
-Simulador interativo do algoritmo de Tomasulo para execução de instruções fora de ordem (Out-of-Order Execution).
-* **Tech Stack:** Python e Streamlit.
-* **Destaque:** Implementação de lógica complexa de hardware (Reservation Stations, CDB e Reorder Buffer).
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| 🏗️ **[Tomasulo Simulator](https://github.com/sabarense/tomasulo)** | Simulador interativo de execução fora de ordem (Out-of-Order Execution). Implementa Reservation Stations e Reorder Buffer. | `Python` `Streamlit` |
+| 🌿 **[Graph Segmentation](https://github.com/sabarense/image-segmentation-mst)** | Ferramenta de visão computacional que usa Teoria dos Grafos (MST) para segmentação eficiente de imagens. | `Python` `NumPy` `OpenCV` |
+| 📱 **[EcoGuia](https://github.com/sabarense/eco_guia)** | App sustentável com **Computer Vision** para identificar e classificar resíduos em tempo real. | `Flutter` `Dart` `AI APIs` |
 
-#### 🌿 [Graph Image Segmentation](https://github.com/sabarense/image-segmentation-mst)
-Ferramenta que utiliza algoritmos de Teoria dos Grafos para realizar a segmentação de imagens de forma eficiente.
-* **Tech Stack:** Python e Bibliotecas Matemáticas.
-* **Destaque:** Resolução de problemas complexos de visão computacional através de estruturas de dados avançadas.
-
-#### 📱 [EcoGuia](https://github.com/sabarense/eco_guia)
-Aplicativo mobile sustentável que utiliza **Computer Vision** para identificar resíduos.
-* **Tech Stack:** Flutter e Dart.
-* **Destaque:** Integração com APIs de IA para classificação de imagens em tempo real.
-
-> [Veja todos os meus projetos →](https://github.com/sabarense?tab=repositories)
+> [🔎 Veja todos os meus repositórios →](https://github.com/sabarense?tab=repositories)
 
 ---
 
 ### 📚 Experiência Profissional
 
 **Expertise | Data Scientist Intern** *(Maio 2025 – Presente)*
-* Desenvolvimento de scripts em Python para automação de processos de ETL e análise de dados.
-* Criação de dashboards de alta performance e modelos preditivos utilizando o ecossistema Data Science.
-* Otimização de consultas e fluxos de dados utilizando SQL Server e ferramentas de BI.
+* Automação de ETL e scripts Python.
+* Criação de modelos preditivos e dashboards de performance.
 
 **Group Software | Fullstack Developer Intern** *(Abril 2023 – Junho 2024)*
-* Desenvolvimento de APIs escaláveis utilizando Java e Spring Boot.
-* Modernização de interfaces e manutenção de sistemas legados com AngularJS.
-* Automação de pipelines de CI/CD (Jenkins e Azure DevOps), reduzindo erros de deploy e otimizando o time-to-market.
-* Gerenciamento e tunning de performance em bancos de dados MySQL.
+* APIs escaláveis com **Java/Spring Boot** e **Angular**.
+* CI/CD com Jenkins/Azure DevOps e tunning de MySQL.
 
----
-
-### 🔗 Vamos conversar?
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yansabarense/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sabarensey@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<!-- <div align="center">
+  <br>
+  <i>"Talk is cheap. Show me the code." – Linus Torvalds</i>
+</div> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer"/>
+</div>
