@@ -10,7 +10,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yansabarense/) 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sabarensey@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=kofi&logoColor=white)](https://github.com/sabarense)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=kofi&logoColor=white)](https://sabarense-dev.vercel.app/)
 
 </div>
 
