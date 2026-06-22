@@ -21,7 +21,7 @@
 Atualmente opero na intersecção entre o desenvolvimento **Backend** e o **Data Science**. Meu foco é unir a eficiência de APIs escaláveis (Java/Spring) à análise estratégica de grandes volumes de informação (Python/Pandas).
 
 - 🎓 **Formação:** Ciência da Computação @ PUC Minas.
-- 💼 **Atual:** Data Scientist Intern @ Expertise.
+- 💼 **Atual:** Fullstack Developer Intern @ Expertise.
 ---
 
 ### 🛠️ Tech Stack
