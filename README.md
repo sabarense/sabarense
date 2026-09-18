@@ -4,9 +4,9 @@
 
 <div align="center">
 
-  ### 👨‍💻 Software Engineer & Cientista da Computação
+  ### 👨‍💻 Software Engineer & Backend Specialist
   
-  *Construindo sistemas de backend escaláveis, automações robustas e arquiteturas com foco em performance.*
+  *Construindo sistemas robustos, APIs escaláveis e arquiteturas de backend com foco em performance e confiabilidade.*
 
   [![Portfolio](https://img.shields.io/badge/Portfólio-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://sabarense-dev.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yansabarense/)
@@ -18,11 +18,11 @@
 
 ### 📌 Sobre Mim
 
-Sou desenvolvedor de software graduando em **Ciência da Computação na PUC Minas**. Atuo com engenharia de backend e arquitetura de software, combinando o rigor de estruturas de dados e algoritmos com soluções modernas em produção.
+Desenvolvedor de software graduando em **Ciência da Computação na PUC Minas**. Atuo com engenharia de backend e arquitetura de sistemas, combinando fundamentos sólidos de computação (estruturas de dados e algoritmos) com o desenvolvimento de soluções corporativas modernas.
 
-- 💼 **Atualmente:** Desenvolvedor Full Stack @ **Expertise**
+- 💼 **Atualmente:** Software Developer @ **Expertise**
 - 🎓 **Formação:** Ciência da Computação @ **PUC Minas**
-- ⚙️ **Foco Atual:** APIs resilientes, microsserviços e pipelines de dados.
+- ⚙️ **Foco Atual:** Ecossistema Java (Spring Boot), microsserviços e APIs RESTful resilientes.
 
 ---
 
@@ -32,8 +32,8 @@ Sou desenvolvedor de software graduando em **Ciência da Computação na PUC Min
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Backend & Core** | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![CPP](https://skillicons.dev/icons?i=cpp) |
-| **Frontend & Web** | ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![NextJS](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
+| **Backend & Core** | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![CPP](https://skillicons.dev/icons?i=cpp) |
+| **Frontend & Web** | ![TypeScript](https://skillicons.dev/icons?i=ts) ![JavaScript](https://skillicons.dev/icons?i=js) ![React](https://skillicons.dev/icons?i=react) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
 | **Banco & Nuvem** | ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) |
 | **DevOps & Ferramentas** | ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman) ![Jenkins](https://skillicons.dev/icons?i=jenkins) |
 
@@ -57,7 +57,7 @@ Sou desenvolvedor de software graduando em **Ciência da Computação na PUC Min
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabarense&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0f1c&title_color=6366f1&icon_color=06b6d4&text_color=94a3b8" height="155" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarense&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0f1c&title_color=6366f1&text_color=94a3b8" height="155" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarense&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0f1c&title_color=63661&text_color=94a3b8" height="155" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
